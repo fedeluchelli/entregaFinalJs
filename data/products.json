@@ -12,7 +12,7 @@
     "price": 250,
     "description": "Almacén",
     "category": 1,
-    "image": "img/img2.png"
+    "image": "img/img9.png"
 },
 {
     "id": 3,
@@ -20,7 +20,7 @@
     "price": 453,
     "description": "Almacén",
     "category": 1,
-    "image": "img/img1.png"
+    "image": "img/img3.png"
 },
 {
     "id": 4,
@@ -28,14 +28,14 @@
     "price": 250,
     "description": "Almacén",
     "category": 1,
-    "image": "img/img2.png"
+    "image": "img/img4.png"
 },{
     "id": 5,
     "title": "Fideos",
     "price": 250,
     "description": "Almacén",
     "category": 1,
-    "image": "img/img2.png"
+    "image": "img/img10.png"
 },
 {
     "id": 6,
@@ -43,7 +43,7 @@
     "price": 453,
     "description": "Almacén",
     "category": 1,
-    "image": "img/img1.png"
+    "image": "img/img6.png"
 },
 {
     "id": 7,
@@ -51,6 +51,22 @@
     "price": 250,
     "description": "Almacén",
     "category": 1,
-    "image": "img/img2.png"
+    "image": "img/img7.png"
+},
+{
+    "id": 8,
+    "title": "Fideos",
+    "price": 250,
+    "description": "Almacén",
+    "category": 1,
+    "image": "img/img8.png"
+},
+{
+    "id": 8,
+    "title": "Fideos",
+    "price": 250,
+    "description": "Almacén",
+    "category": 1,
+    "image": "img/img8.png"
 }
 ]
