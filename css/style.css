@@ -1,0 +1,26 @@
+
+body{
+    background: linear-gradient(to bottom, #dc6002, #f051b0);
+}
+
+
+
+.modal-contenedor{
+    display:flex;
+    align-items:center;
+    gap:2rem ;
+
+}
+.img-carrito{
+    width: 200px;
+    padding: 15px;
+}
+
+.divDolar{
+    background-color: aqua;
+}
+
+.inline-p {
+    display: inline-block;
+    margin: 15px;
+}

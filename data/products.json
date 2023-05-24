@@ -1,0 +1,56 @@
+[{
+    "id": 1,
+    "title": "Arroz",
+    "price": 453,
+    "description": "Almacén",
+    "category": 1,
+    "image": "img/img1.png"
+},
+{
+    "id": 2,
+    "title": "Fideos",
+    "price": 250,
+    "description": "Almacén",
+    "category": 1,
+    "image": "img/img2.png"
+},
+{
+    "id": 3,
+    "title": "Arroz",
+    "price": 453,
+    "description": "Almacén",
+    "category": 1,
+    "image": "img/img1.png"
+},
+{
+    "id": 4,
+    "title": "Fideos",
+    "price": 250,
+    "description": "Almacén",
+    "category": 1,
+    "image": "img/img2.png"
+},{
+    "id": 5,
+    "title": "Fideos",
+    "price": 250,
+    "description": "Almacén",
+    "category": 1,
+    "image": "img/img2.png"
+},
+{
+    "id": 6,
+    "title": "Arroz",
+    "price": 453,
+    "description": "Almacén",
+    "category": 1,
+    "image": "img/img1.png"
+},
+{
+    "id": 7,
+    "title": "Fideos",
+    "price": 250,
+    "description": "Almacén",
+    "category": 1,
+    "image": "img/img2.png"
+}
+]
