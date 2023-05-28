@@ -1,72 +1,72 @@
 [{
     "id": 1,
     "title": "Arroz",
-    "price": 453,
-    "description": "Almacén",
+    "price": 400,
+    "description": "Lucchetti",
     "category": 1,
     "image": "img/img1.png"
 },
 {
     "id": 2,
-    "title": "Fideos",
+    "title": "Queso Rallado",
     "price": 250,
-    "description": "Almacén",
+    "description": "La Serenisima",
     "category": 1,
     "image": "img/img9.png"
 },
 {
     "id": 3,
-    "title": "Arroz",
-    "price": 453,
-    "description": "Almacén",
+    "title": "Harina",
+    "price": 350,
+    "description": "Pureza",
     "category": 1,
     "image": "img/img3.png"
 },
 {
     "id": 4,
-    "title": "Fideos",
-    "price": 250,
-    "description": "Almacén",
+    "title": "Jugo",
+    "price": 50,
+    "description": "Tang",
     "category": 1,
     "image": "img/img4.png"
 },{
     "id": 5,
-    "title": "Fideos",
-    "price": 250,
-    "description": "Almacén",
+    "title": "Café",
+    "price": 650,
+    "description": "Cabrales",
     "category": 1,
     "image": "img/img10.png"
 },
 {
     "id": 6,
-    "title": "Arroz",
+    "title": "Galletas Dulces",
     "price": 453,
-    "description": "Almacén",
+    "description": "Terrabusi",
     "category": 1,
     "image": "img/img6.png"
 },
 {
     "id": 7,
-    "title": "Fideos",
-    "price": 250,
-    "description": "Almacén",
+    "title": "Leche",
+    "price": 475,
+    "description": "La Serenisima",
     "category": 1,
     "image": "img/img7.png"
 },
 {
     "id": 8,
-    "title": "Fideos",
-    "price": 250,
-    "description": "Almacén",
+    "title": "Pan Lactal",
+    "price": 600,
+    "description": "Bimbo",
     "category": 1,
     "image": "img/img8.png"
 },
 {
     "id": 8,
     "title": "Fideos",
-    "price": 250,
-    "description": "Almacén",
+    "price": 200,
+    "description": "Knorr",
     "category": 1,
-    "image": "img/img8.png"
+    "image": "img/img12.png"
 }
 ]
